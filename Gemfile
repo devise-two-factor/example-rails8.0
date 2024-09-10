@@ -68,3 +68,6 @@ group :test do
 end
 
 gem "devise", "~> 4.9"
+
+gem "devise-two-factor", ">= 5.0"
+gem "rqrcode", "~> 2.2"
